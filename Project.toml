@@ -1,0 +1,9 @@
+name = "HackRF"
+uuid = "22299a23-623d-4230-a0cd-d5ed82463b31"
+authors = ["Lucca Fraser <lucca.fraser@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+BitFlags = "d1d4a3ce-64b1-5f1a-9ba4-7e7e69966f35"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
