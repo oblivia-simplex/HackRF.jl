@@ -5,5 +5,6 @@ version = "0.1.0"
 
 [deps]
 BitFlags = "d1d4a3ce-64b1-5f1a-9ba4-7e7e69966f35"
+Debugger = "31a5f54b-26ea-5ae9-a837-f05ce5417438"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
